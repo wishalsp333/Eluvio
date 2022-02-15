@@ -1,0 +1,10 @@
+certifi==2021.10.8
+charset-normalizer==2.0.12
+distlib==0.3.4
+filelock==3.4.2
+idna==3.3
+numpy==1.22.2
+platformdirs==2.5.0
+requests==2.27.1
+urllib3==1.26.8
+virtualenv==20.13.1
